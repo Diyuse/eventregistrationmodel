@@ -5,7 +5,7 @@
       <contents xmi:type="ecore:EAnnotation" xmi:id="_Qh-ykE9rEeqCu4DutzispA" source="codegen">
         <details xmi:id="_Qh-ykU9rEeqCu4DutzispA" key="codegenDirectory" value="/ca.mcgill.ecse321.eventregistration.model/src-gen"/>
         <details xmi:id="_QiSUkE9rEeqCu4DutzispA" key="observedFolders" value="/ca.mcgill.ecse321.eventregistration.model/src"/>
-        <details xmi:id="_a0rfgE9tEeqCu4DutzispA" key="AssociatedSourceCode" value="/ca.mcgill.ecse321.eventregistration.model/src-gen/ca/mcgill/ecse321/eventregistration/model/Person.java;2022691720/1;/ca.mcgill.ecse321.eventregistration.model/src-gen/ca/mcgill/ecse321/eventregistration/model/RegistrationManager.java;1257056932/1;/ca.mcgill.ecse321.eventregistration.model/src-gen/ca/mcgill/ecse321/eventregistration/model/Registration.java;3734461381/1;/ca.mcgill.ecse321.eventregistration.model/src-gen/ca/mcgill/ecse321/eventregistration/model/Event.java;608208121/1;"/>
+        <details xmi:id="_a0rfgE9tEeqCu4DutzispA" key="AssociatedSourceCode" value="/ca.mcgill.ecse321.eventregistration.model/src-gen/ca/mcgill/ecse321/eventregistration/model/Person.java;2022691720/1;/ca.mcgill.ecse321.eventregistration.model/src-gen/ca/mcgill/ecse321/eventregistration/model/RegistrationManager.java;1257056932/1;/ca.mcgill.ecse321.eventregistration.model/src-gen/ca/mcgill/ecse321/eventregistration/model/Registration.java;3734461381/1;/ca.mcgill.ecse321.eventregistration.model/src-gen/ca/mcgill/ecse321/eventregistration/model/Event.java;2231411158/1;"/>
       </contents>
     </eAnnotations>
     <elementImport xmi:id="_0_LIYE9rEeqCu4DutzispA">
@@ -87,12 +87,10 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_Ascn0E9sEeqCu4DutzispA" name="java">
       <packagedElement xmi:type="uml:Package" xmi:id="_Ascn0U9sEeqCu4DutzispA" name="sql">
-        <packagedElement xmi:type="uml:Package" xmi:id="_AsfEEE9sEeqCu4DutzispA" name="Time">
-          <packagedElement xmi:type="uml:DataType" xmi:id="_7TqlQE9rEeqCu4DutzispA" name="Time"/>
-        </packagedElement>
-        <packagedElement xmi:type="uml:Package" xmi:id="_CZKoUE9sEeqCu4DutzispA" name="Date">
-          <packagedElement xmi:type="uml:DataType" xmi:id="_3bA4sE9rEeqCu4DutzispA" name="Date"/>
-        </packagedElement>
+        <packagedElement xmi:type="uml:Package" xmi:id="_AsfEEE9sEeqCu4DutzispA" name="Time"/>
+        <packagedElement xmi:type="uml:Package" xmi:id="_CZKoUE9sEeqCu4DutzispA" name="Date"/>
+        <packagedElement xmi:type="uml:DataType" xmi:id="_7TqlQE9rEeqCu4DutzispA" name="Time"/>
+        <packagedElement xmi:type="uml:DataType" xmi:id="_3bA4sE9rEeqCu4DutzispA" name="Date"/>
       </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_QPnawE9sEeqCu4DutzispA" name="" memberEnd="_QPp3AE9sEeqCu4DutzispA _QPp3A09sEeqCu4DutzispA">
